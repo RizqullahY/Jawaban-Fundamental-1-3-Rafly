@@ -20,8 +20,7 @@
 (suatu alat yang berfungsi untuk merekam obyek pada sistem penginderaan jauh. Sensor adalah salah satu unsur atau komponen dalam sistem penginderaan jauh. Tenaga yang datang dari obyek di permukaan bumi akan diterima dan direkam oleh sensor. Setiap sensor memiliki kemampuan yang berbeda)
 
 7. Sebutkan minimal 2 penerapan teknologi IoT pada smart city?
-(1. Smart lighting. Tak hanya bisa diterapkan pada lampu penerangan jalan, namun juga untuk lampu lalu lintas. “Dengan smart lighting, bisa dipantau mana lampu yang sedang rusak. Bisa juga dimatikan atau dinyalakan dari jarak jauh,”
-2. Waste management. Volume sampah di suatu tempat penampungan bisa dipantau dari jarak jauh. Petugas kebersihan tak perlu mendatangi satu per satu tempat sampah untuk memeriksanya)
+(1. Smart lighting. Tak hanya bisa diterapkan pada lampu penerangan jalan, namun juga untuk lampu lalu lintas. “Dengan smart lighting, bisa dipantau mana lampu yang sedang rusak. Bisa juga dimatikan atau dinyalakan dari jarak jauh,”2. Waste management. Volume sampah di suatu tempat penampungan bisa dipantau dari jarak jauh. Petugas kebersihan tak perlu mendatangi satu per satu tempat sampah untuk memeriksanya)
 
 8.	Jelaskan perbedaan dari SaaS dan PaaS?
 ( SaaS pengguna hanya perlu menggunakan software yang disediakan oleh vendor, model cloud service pada PaaS biasanya berupa framework yang digunakan oleh pengguna (developer) untuk membangun atau membuat perangkat lunak)
